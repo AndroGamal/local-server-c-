@@ -16,3 +16,5 @@ and you can know whoes enter website from this page .
 <img src="screen shot/4.PNG" >
 
 when push link http:\\ will open website
+
+<img src="screen shot/3.PNG" width=600 heigth=900 >
